@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Gallery
-subtitle: From the pexels folder
+title: Drones
+subtitle: Fotografía aérea
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
 excluded: true
 position: 3
 tags: [Page]
+feature-img: "assets/img/header/drone.jpg"
 ---
 
 This is a photo gallery made from the static files in the `assets/img/pexels` folder. 
