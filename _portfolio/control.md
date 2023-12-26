@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Creative
-feature-img: "assets/img/portfolio/safe.png"
-img: "assets/img/portfolio/safe.png"
-date: August, 16 2014
-tags: [Ipsum]
+title: Control
+feature-img: "assets/img/portfolio/control/control-1.jpg"
+img: "assets/img/portfolio/control/control-1.jpg"
+date: September 2014
+gallery_path: "assets/img/portfolio/control"
 ---
-
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
@@ -20,3 +19,6 @@ vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
 Use this area of the page to describe your project. 
 The icon above is part of a free icon set by Flat Icons. 
+
+# Portafolio de Control
+{% include gallery.html gallery_path=page.gallery_path %}

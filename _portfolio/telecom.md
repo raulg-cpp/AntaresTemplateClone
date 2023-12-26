@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Tic tac toe
-feature-img: "assets/img/portfolio/ttt.png"
-img: "assets/img/portfolio/ttt.png"
-date: September 2014
+title: Telecomunicaciones
+feature-img: "assets/img/portfolio/telecom/telecom-1.jpg"
+img: "assets/img/portfolio/telecom/telecom-1.jpg"
+date: September 2022
+gallery_path: "assets/img/portfolio/telecom"
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
@@ -19,3 +20,6 @@ vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 Use this area of the page to describe your project. 
 The icon above is part of a free icon set by Flat Icons. 
 
+# Portafolio de Telecomunicaciones
+
+{% include gallery.html gallery_path=page.gallery_path %}

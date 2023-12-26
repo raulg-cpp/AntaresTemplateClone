@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Cake
-feature-img: "assets/img/portfolio/cake.png"
-img: "assets/img/portfolio/cake.png"
-date: 27 September 2015
-tags: [Lorem, Ipsum]
+title: Soporte Tecnico
+feature-img: "assets/img/portfolio/computer/computer-1.jpg"
+img: "assets/img/portfolio/computer/computer-1.jpg"
+date: September 2014
+gallery_path: "assets/img/portfolio/computer"
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
@@ -19,3 +19,7 @@ vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
 Use this area of the page to describe your project. 
 The icon above is part of a free icon set by Flat Icons. 
+
+# Portafolio de Soporte Tecnico
+
+{% include gallery.html gallery_path=page.gallery_path %}
