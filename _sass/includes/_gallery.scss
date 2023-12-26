@@ -18,8 +18,19 @@
 .grid-sizer,
 .grid-item {
   /* state column width */
-  width: 32.6%;
+  width: 48.9%; // default = 32.6%;
 }
+
+/* additional */
+
+@media (max-width: $break) {
+	.grid-sizer,
+	.grid-item	{
+		width: 97.8%
+	}
+}
+
+/* --------- */
 
 .grid-item {
   float: left;

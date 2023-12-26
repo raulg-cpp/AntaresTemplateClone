@@ -1,0 +1,9 @@
+{% if include.local %}
+	{% capture source %}
+		{{ site.baseurl }}{{ include.src }}
+	{% endcapture %}	
+{% else %}
+	{% assign source = include.src %}
+{% endif%} 
+
+<img class="image" src="{{ source }}">

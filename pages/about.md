@@ -4,7 +4,7 @@ title: Servicios
 subtitle: Ingeniería y sistemas
 permalink: /about/
 feature-img: "assets/img/header/cad.jpg"
-tags: [Page]
+tags: [Página]
 ---
 
 Somos una empresa que ofrece servicios de electricidad, informática y telecomunicaciones. ¡Selecciona una categoría para más información!

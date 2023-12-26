@@ -3,14 +3,15 @@ layout: post
 title:  "Conservación de una fuente de poder"
 categories: Computadores 
 author: fernando_canchica 
-tags: [Highlight, Markdown]
+tags: [Mantenimiento computador]
 feature-img: "assets/img/feature-img/powersupply.jpg"
 thumbnail: "assets/img/thumbnails/feature-img/powersupply-parts.png"
+
+gallery_path: "assets/img/posts/tutorials/powersupply"
+
 ---
 
 Uno de los componentes más importantes de un computador es su procesador. Este dispositivo recibe un voltaje AC externo y variable y lo convierte a diferentes voltajes DC estables. Dado que es un convertidor de energía, una fuente de poder emite mucho calor que debe ser extraído. Por lo general, esto se hace por medio de un ventilador interno que fuerza aire por un disipador. Como es un dispositivo rotatorio, el ventilador acumula polvo después de mucho uso. 
-
-{% include local-image.html link='/assets/img/posts/tutorials/powersupply-1.png' %}
 
 Para limpiar el ventilador y el resto de la fuente de poder necesitamos las siguientes herramientas:
 
@@ -29,4 +30,4 @@ Luego hemos de seguir este procedimiento:
 4. Limpiar el interior de la fuente con una brocha suave.
 5. Antes de conectar los cables se limpian con CRC y se deben apretar los pines para cerrarlos y así evitar un falso contacto por el polvo.
 
-{% include image-slider.html list=site.data.images.slider_post_powersupply %}
+{% include gallery.html gallery_path=page.gallery_path %}

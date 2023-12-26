@@ -3,14 +3,14 @@ layout: post
 title:  "Revisión de ventiladores/coolers"
 categories: Computadores  
 author: fernando_canchica 
-tags: [Highlight, Markdown]
+tags: [Mantenimiento computador]
 feature-img: "assets/img/feature-img/fan.jpeg"
 thumbnail: "assets/img/thumbnails/feature-img/fan.jpg"
 ---
 
 Los computadores generalmente contienen múltiples ventiladores. Estos extraen calor de los componentes electrónicos y lo imparten al aire adyacente. Es sumamente importante que estos operen bien, ya que regulan la temperatura de la electrónica. Si esta se sobrecalienta, puede fallar y hacer inoperable el computador. Dado que los ventiladores mueven aire, acumulan polvo en sus aspas que solo incrementa con uso.
 
-![image](https://thumbs.dreamstime.com/b/very-dirty-computer-fan-inside-cleaned-vacuum-cleaner-168326051.jpg)
+{% include image.html src='https://www.crucial.com/content/dam/crucial/articles/for-pc-builders/ext054-how-to-clean-the-inside-of-a-computer/dirty-dusty-computer-fan.jpg.transform/medium-jpg/img.jpg' %}
 
 Para la limpieza de las aspas necesitamos: Jabón para fregar los platos, agua tibia y destornillador.
 
@@ -21,4 +21,4 @@ La limpieza de los alrededores también es importante. Limpiar las zonas que rod
 
 Los ventiladores suelen tener un agujero en los que podemos agregar aceite o lubricante y suele conseguirse en la parte posterior derecha de los mismos. En caso de que no lo tenga, te recomendamos engrasarlo con una brocha, ya que de esta forma podrás llegar mucho más fácilmente a rincones donde quizás sea necesario su lubricación.
 
-{% include local-image.html link='/assets/img/posts/tutorials/fan-1.jpeg' %}
+{% include image.html local=true src='/assets/img/posts/tutorials/fan-1.jpeg' %}

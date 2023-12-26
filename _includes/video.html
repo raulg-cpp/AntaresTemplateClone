@@ -1,3 +1,12 @@
-<video preload="auto" controls>
-	<source src="{{ site.baseurl }}/{{ include.src }}" type="video/mp4"></source>
-</video>
+{% if include.local %}
+<div class="video-local">
+	<video controls>
+		<source src="{{ site.baseurl }}/{{ include.src }}" type="video/mp4"></source>
+	</video>	
+</div>
+
+{% else %}
+<div class="video-embed">
+  	<iframe src="{{ include.src }}" allowfullscreen></iframe>
+</div>
+{% endif %}

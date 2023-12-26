@@ -80,3 +80,5 @@ wordpress:
   pos: ".wordpress.com/"
 youtube:
   pre: "https://www.youtube.com/channel/"
+whatsapp:
+  pre: "https://wa.me/"
