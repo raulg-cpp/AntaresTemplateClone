@@ -3,7 +3,7 @@ layout: post
 title: Control
 feature-img: "assets/img/portfolio/control/control-4.jpg"
 img: "assets/img/portfolio/control/control-1.jpg"
-date: September 2014
+date: 01/2021
 gallery_path: "assets/img/portfolio/control"
 ---
 

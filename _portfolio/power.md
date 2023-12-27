@@ -3,7 +3,7 @@ layout: post
 title: Potencia
 feature-img: "assets/img/portfolio/power/power-1.jpg"
 img: "assets/img/portfolio/power/power-1.jpg"
-date: September 2014
+date: 08/2020
 gallery_path: "assets/img/portfolio/power"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Energía solar
 feature-img: "assets/img/portfolio/solar/solar-1.jpg"
 img: "assets/img/portfolio/solar/panel-solar.jpg"
-date: September 2014
+date: 05/2019
 gallery_path: "assets/img/portfolio/solar"
 ---
 

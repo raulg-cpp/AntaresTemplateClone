@@ -12,7 +12,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 header_text: Artículos  # Change Blog header text
 header_feature_image: assets/img/header/laptop.jpg
 header_feature_image_responsive: false
-footer_text: <p><b>Antares Technology</b></br>Beyond the stars</p>
+footer_text: <p><b>Antares Technology</b></br>Caracas, Distrito Capital, </br>Venezuela </br>+58 412 0626412 </br>antarestechnologyonline@gmail.com</p>
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable

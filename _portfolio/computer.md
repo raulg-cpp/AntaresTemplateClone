@@ -3,7 +3,7 @@ layout: post
 title: Soporte Tecnico
 feature-img: "assets/img/portfolio/computer/computer-1.jpg"
 img: "assets/img/portfolio/computer/computer-1.jpg"
-date: September 2014
+date: 03/2021
 gallery_path: "assets/img/portfolio/computer"
 ---
 

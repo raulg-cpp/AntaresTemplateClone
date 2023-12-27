@@ -3,7 +3,7 @@ layout: post
 title: Diseño
 feature-img: "assets/img/portfolio/design/design-1.jpg"
 img: "assets/img/portfolio/design/design-1.jpg"
-date: September 2014
+date: 12/2021
 gallery_path: "assets/img/portfolio/design"
 ---
 

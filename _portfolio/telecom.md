@@ -3,7 +3,7 @@ layout: post
 title: Telecomunicaciones
 feature-img: "assets/img/portfolio/telecom/telecom-1.jpg"
 img: "assets/img/portfolio/telecom/network-switch.jpg"
-date: September 2022
+date: 05/2022
 gallery_path: "assets/img/portfolio/telecom"
 ---
 
