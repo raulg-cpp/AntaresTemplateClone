@@ -7,127 +7,24 @@ feature-img: "assets/img/header/cad.jpg"
 tags: [Página]
 ---
 
-Somos una empresa que ofrece servicios de electricidad, informática y telecomunicaciones. ¡Selecciona una categoría para más información!
+Nos enorgullece ofrecer una amplia gama de servicios de ingeniería en electricidad, informática y telecomunicaciones. Nuestro equipo de profesionales altamente capacitados y experimentados se dedica a brindar soluciones integrales y personalizadas para satisfacer las necesidades de nuestros clientes. Contáctanos hoy mismo y descubre cómo podemos ayudarte a optimizar tus sistemas y proyectos.
 
-<!-- HTML -->
+# Electricidad
+En el área de electricidad, nos especializamos en el diseño de proyectos eléctricos residenciales, comerciales e industriales. Ya sea que necesites canalización y distribución industrial o controles eléctricos, nuestro equipo está listo para ayudarte. Además, ofrecemos servicios de mantenimiento de equipos de generación eléctrica, asegurando un rendimiento óptimo y confiable. Desde CNC y tornos radiales hasta hornos industriales de pintura electroestática y máquinas de inyección de plástico, nuestro equipo tiene la experiencia necesaria para mantener tus equipos en funcionamiento.
 
-<!-- block 1 -->
-<details style="margin-bottom: 10px">
-	<summary style="margin-bottom: 10px">
-		<h2 style="display:inline;">
-		Electricidad
-		</h2>
-	</summary>
-	
-	<p>
-	&#9679; Diseño de proyectos eléctricos residenciales, comerciales e industriales, canalización y distribución industrial.  
-	</p>
+{% include image.html local=true src="/assets/img/about/electrician.jpg" %}
 
-	<p>
-	&#9679; Mantenimiento de equipos de generación de eléctrica, CNC, tornos radiales, horizontales, verticales, hornos industriales de pintura electroestática, troqueles, máquinas de inyección de plástico, entre otros.  
-	</p>
-	
-	<p>
-	&#9679; Diseño e instalación de controles eléctricos.
-	</p>
-	
-	<img src="https://www.electricistasdelafuentemadrid.com/wp-content/uploads/2017/12/tres-puntos-clave-que-debera-verificar-al-contratar-a-un-electricista.jpg">
-</details>
+# Telecomunicaciones
+En el campo de las telecomunicaciones, ofrecemos una amplia gama de servicios para garantizar una conectividad confiable y eficiente. Desde el mantenimiento de redes y análisis de incidencias hasta la instalación de sistemas de clima y energía en CPD-Centros de conmutación, estamos listos para ayudarte. Nuestro equipo también se encarga del mantenimiento de equipos, incluyendo análisis de interferencias y comisionado de equipos. Además, ofrecemos servicios de monitorización de redes, gestión de accesos y atención de incidencias a través de Help desk.
 
-<!-- block 2 -->
-<details style="margin-bottom: 10px">
-	<summary style="margin-bottom: 10px">
-		<h2 style="display:inline;">
-		Telecomunicaciones
-		</h2>
-	</summary>
-	
-	<p>
-	&#9679; Operaciones de redes:   
-	Servicios de mantenimiento de redes y análisis de incidencias. Realización de instalaciones de clima y energía en CPD-Centros de conmutación. Ingeniería de obras y proyectos llave en mano.
-	</p>
-	
-	<p>
-	&#9679; Mantenimiento de equipos:   
-	Análisis de interferencias, instalación, mantenimiento y comisionado de equipos. Análisis de incidencias y estadísticas de llamadas. Mantenimiento de campos electromagnéticos.
-	</p>
-	
-	<p>
-	&#9679; Suministros energéticos:   
-	Instalación de equipos portátiles de energía. Desarrollo de energías renovables: sistemas eólicos, solares, pilas de combustible.
-	</p>
-	
-	<p>
-	&#9679; Servicios al cliente:   
-	Viabilidad de instalación de repetidores. Mantenimiento preventivo y correctivo de repetidores.
-	</p>
-	
-	<p>
-	&#9679; Monitorización de redes:   
-	Gestión de accesos. Servicios Help desk atención incidencias.
-	</p>
-	
-	<p>
-	&#9679; Operaciones móviles:   
-	Estudios y análisis para mejora de cobertura. Servicios de transporte e instalación de unidades móviles.
-	</p>
-	
-	<p>
-	&#9679; Mantenimiento de inmuebles:   
-	Servicios de mantenimiento preventivo, correctivo, conductivo y predictivo. Mantenimiento de inmuebles dispersos. Reposición de clima, fontanería, electricidad, etc. Incidencias. Diseño e instalación de sistemas. Ejecución de obra. Mantenimiento de elevadores.
-	</p>
-	
-	<p>
-	&#9679; Limpieza de inmuebles:   
-	Servicios de limpieza y desinfección de tuberías, depósitos y circuitos de aire. Limpieza general, especial y de escaleras mecánicas.
-	</p>
-	
-	<p>
-	&#9679; Seguridad de inmuebles:   
-	Servicios de vigilantes armados o sin armar, seguridad itinerante, seguridad de instalaciones y soluciones logísticas en lugares o situaciones de alto riesgo. Servicios de seguridad de escolta, sistemas anti-intrusión y detección perimetral, control de acceso.
-	</p>
-	
-	<p>
-	&#9679; Medio ambiente:   
-	Certificados medioambientales de destrucción. Gestión de residuos. Higiene ambiental de las instalaciones. Control de plagas.
-	</p>
-	
-	<p>
-	&#9679; Servicios de soporte:   
-	Servicios de montaje y desmontaje de mobiliario. Inventario y reposición de almacenes. Registro, clasificación y entrega de documentos. Valija. Atención telefónica y gestión de reclamaciones. Compra de material. Control de accesos.
-	</p>
-	
-	<p>
-	&#9679; Facility Management:   
-	Propuesta de mejora del servicio, auditorías y consultoría técnica. Control de proveedores. Gestión de inmuebles y residuos.
-	</p>
-	
-	<img src="http://st.depositphotos.com/2511443/3213/i/450/depositphotos_32139119-Network-switch-and-UTP-ethernet-cables.jpg">
-</details>
+{% include image.html local=true src="/assets/img/about/network.jpg" %}
 
-<!-- block 3 -->
-<details>
-	<summary style="margin-bottom: 10px">
-		<h2 style="display:inline;">
-		Soporte tecnico
-		</h2>
-	</summary>
+# Soporte técnico
+En cuanto al soporte técnico, nos destacamos en la provisión de servicios de redes informáticas. Ya sea que necesites análisis, tendido o mantenimiento de redes, estamos aquí para ayudarte. También ofrecemos servicios de instalación de servidores, rack y antenas, así como manipulación de programas para auditoría informática y asesorías para proyectos de oficinas y empresas. Nuestro equipo también se encarga de la reparación, mantenimiento, instalación y programación de equipos informáticos, y ofrecemos servicios de logística y armado de equipos.
 
-	<p>
-	&#9679; Redes informáticas, análisis, tendido y mantenimiento de las mismas. Instalación de servidores, rack y antenas, manipulación de programas para auditoria informática, hardware y software para computadores.  
-	</p>
-	
-	<p>
-	&#9679; Sistemas operativos con licenciamiento por volumen a nivel empresarial y hogareño herramientas informáticas, programas ofimáticos en entornos Windows, Linux, MacOS, y programación para la optimización de sistemas operativos adecuados al hardwaren instalado, asesorías para proyectos de oficinas, empresariales y demás.  
-	</p>
-	
-	<p>
-	&#9679; Reparación, mantenimiento, instalación y programación de equipos, (computadores, impresoras, routers, rack, módems), redes para entorno Microsoft Windows para oficinas comerciales, logística y armado de equipos.  
-	</p>
-	
-	<p>
-	&#9679; Repotenciación de equipos, personalización y ajuste de hardware a adecuados a las necesidades de los clientes.
-	</p>
-	
-	<img src="https://media.istockphoto.com/id/471199041/photo/open-desktop-computer.jpg?s=612x612&w=0&k=20&c=Q1tsMNY7ca1PUmOFzz65G-rh84-eihapxizHeKZVrSE=">	
-</details>
+{% include image.html local=true src="/assets/img/about/computer.png" %}
+
+# Diseño
+Ofrecemos una gama completa de servicios de ingeniería, desde el diseño inicial hasta la implementación práctica. En el campo de la ingeniería eléctrica, nos especializamos en la creación de planos eléctricos, la distribución de redes y la gestión de fuentes de energía. También podemos incorporar de manera segura y eficiente el cableado eléctrico en diseños arquitectónicos, asegurando una integración perfecta. Además, brindamos servicios de ingeniería mecánica para satisfacer todas tus necesidades en el ámbito industrial. Nuestro equipo está preparado para diseñar componentes, planos y ensambles para maquinaria industrial, vehículos y drones, ofreciendo soluciones innovadoras y eficientes.
+
+{% include image.html local=true src="/assets/img/about/blueprint.jpg" %}

@@ -2,23 +2,12 @@
 layout: post
 title: Energía solar
 feature-img: "assets/img/portfolio/solar/solar-1.jpg"
-img: "assets/img/portfolio/solar/solar-1.jpg"
+img: "assets/img/portfolio/solar/panel-solar.jpg"
 date: September 2014
 gallery_path: "assets/img/portfolio/solar"
 ---
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-Nemo enim ipsam voluptatem <a>quia voluptas sit aspernatur</a> aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, 
-sed quia non numquam eius <a>modi tempora incidunt</a> ut labore et dolore magnam aliquam quaerat voluptatem. 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? 
-Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, 
-vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-
-Use this area of the page to describe your project. 
-The icon above is part of a free icon set by Flat Icons. 
+Nuestros servicios de ingeniería se enfocan en la instalación y mantenimiento de sistemas de paneles solares, baterías de respaldo e inversores de corriente. Con tecnología de punta y un equipo altamente capacitado, ofrecemos soluciones eficientes en energía renovable. Diseñamos e instalamos sistemas personalizados para maximizar el aprovechamiento de la energía solar y reducir la dependencia de la red eléctrica convencional. Además, brindamos servicios de mantenimiento para garantizar un rendimiento óptimo a lo largo del tiempo. Contáctanos y descubre cómo podemos ayudarte a lograr una fuente de energía sostenible y confiable.
 
 # Portafolio de Energía solar
 
