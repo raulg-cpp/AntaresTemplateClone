@@ -14,4 +14,5 @@ Descubre más sobre nuestros proyectos destacados. Selecciona una imagen para ob
 {% include portfolio.html %}
 
 # Repositorio de proyectos
-Obtén información adicional sobre nuestros proyectos específicos a través del siguiente enlace en nuestro [repositorio público](https://github.com/raulg-cpp/AntaresPortafolio). Descubre más detalles sobre cómo hemos llevado a cabo cada proyecto y los resultados que hemos logrado.
+Obtén información adicional sobre nuestros proyectos específicos a través del siguiente enlace en nuestro repositoriovpúblico. Descubre más detalles sobre cómo hemos llevado a cabo cada proyecto y los resultados que hemos logrado: 
+<b><a href="https://github.com/raulg-cpp/AntaresPortafolio"> Repositorio | Antares Tech </a></b>

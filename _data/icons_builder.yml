@@ -79,7 +79,7 @@ wordpress:
   pre: "https://"
   pos: ".wordpress.com/"
 youtube:
-  pre: "https://www.youtube.com/channel/"
+  pre: "https://m.youtube.com/@"
 whatsapp:
   pre: "https://wa.me/"
 tiktok: 

@@ -7,7 +7,7 @@ feature-img: "assets/img/header/cad.jpg"
 tags: [Página]
 ---
 
-Nos enorgullece ofrecer una amplia gama de servicios de ingeniería en electricidad, diseño, informática y telecomunicaciones. Nuestro equipo de profesionales altamente capacitados y experimentados se dedica a brindar soluciones integrales y personalizadas para satisfacer las necesidades de nuestros clientes. Contáctanos hoy mismo y descubre cómo podemos ayudarte a optimizar tus sistemas y proyectos.
+Nos enorgullece ofrecer una amplia gama de servicios de ingeniería en electricidad, diseño, informática y telecomunicaciones. Nuestro equipo se dedica a brindar soluciones integrales y personalizadas para satisfacer las necesidades de nuestros clientes. Contáctanos hoy mismo y descubre cómo podemos ayudarte a optimizar tus sistemas y proyectos.
 
 # Electricidad
 En el área de electricidad, nos especializamos en el diseño de proyectos eléctricos residenciales, comerciales e industriales. Ya sea que necesites canalización y distribución industrial o controles eléctricos, nuestro equipo está listo para ayudarte. Además, ofrecemos servicios de mantenimiento de equipos de generación eléctrica, asegurando un rendimiento óptimo y confiable. Desde CNC y tornos radiales hasta hornos industriales de pintura electroestática y máquinas de inyección de plástico, nuestro equipo tiene la experiencia necesaria para mantener tus equipos en funcionamiento.
