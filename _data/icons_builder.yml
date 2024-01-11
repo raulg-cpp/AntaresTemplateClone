@@ -82,3 +82,5 @@ youtube:
   pre: "https://www.youtube.com/channel/"
 whatsapp:
   pre: "https://wa.me/"
+tiktok: 
+  pre: "https://www.tiktok.com/@"

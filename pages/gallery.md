@@ -5,7 +5,7 @@ subtitle: Fotografía aérea
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
 excluded: true
-position: 3
+position: 2
 tags: [Página]
 feature-img: "assets/img/header/drone.jpg"
 ---
